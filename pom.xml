@@ -35,7 +35,7 @@
 
   <artifactId>pipeline-maven</artifactId>
   <version>0.5-SNAPSHOT</version>
-  <packaging>hpi</packaging>
+  <packaging>war</packaging>
 
   <name>Pipeline Maven Integration Plugin</name>
   <description>
